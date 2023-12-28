@@ -1,5 +1,5 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/biisal/biisal-file-stream-pro?style=flat&color=green)
-![GitHub repo size](https://img.shields.io/github/repo-size/biisal/biisal-file-stream-pro?color=green)
+![GitHub repo size](https://img.shields.io/github/repo-size/biisal/biisal-file-stream-pro?color=yellow)
 ![GitHub](https://img.shields.io/github/license/biisal/biisal-file-stream-pro?color=green)
 
 ### Demo Bot
@@ -85,7 +85,7 @@ Thank you for your interest in this project, and we appreciate your understandin
       <summary><b>Deploy to Heroku<b></summary>
       Click the button below to deploy the bot on Heroku:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/biisal/biisal-file-stream-pro)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Yokissu/File-to-link-original-)
 
   </details>
   <details>
